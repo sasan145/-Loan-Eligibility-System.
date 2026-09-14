@@ -1,0 +1,10 @@
+# Default ignored files
+/../../LoanEligibilitySystem./.idea/shelf/
+/../../LoanEligibilitySystem./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../LoanEligibilitySystem./.idea/httpRequests/
+# Ignored default folder with query files
+/../../LoanEligibilitySystem./.idea/queries/
+# Datasource local storage ignored files
+/../../LoanEligibilitySystem./.idea/dataSources/
+/../../LoanEligibilitySystem./.idea/dataSources.local.xml
