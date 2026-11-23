@@ -37,9 +37,9 @@ public class AdminMenu {
 
         while (loggedIn) {
             System.out.println();
-            System.out.println("=====================================");
-            System.out.println("========== ADMIN DASHBOARD ==========");
-            System.out.println("=====================================");
+            System.out.println("======================================");
+            System.out.println("========== ADMIN DASHBOARD ===========");
+            System.out.println("======================================");
             System.out.println("--- User Accounts & Access ---");
             System.out.println(" 1. View all users");
             System.out.println(" 2. View pending user approvals");
